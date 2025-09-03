@@ -5,19 +5,19 @@
 
 ### 1. Create and activate virtual environment
 
-   python3 -m venv venv
+   - python3 -m venv venv
 
    - source venv/bin/activate   # On macOS/Linux
    - venv\Scripts\activate      # On Windows
 
 ### 2. Install dependencies
 
-   pip install -r requirements.txt
+   - pip install -r requirements.txt
    
 
 ### 3. Run the forecasting pipeline
 
-   python main.py
+   - python main.py
    
 
 ### 4. Outputs
