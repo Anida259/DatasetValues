@@ -1,13 +1,12 @@
 # Dataset Values
 
-SETUP 
 
 ## 1. Create and activate virtual environment
 
    python3 -m venv venv
 
-   source venv/bin/activate   # On macOS/Linux
-   venv\Scripts\activate      # On Windows
+   - source venv/bin/activate   # On macOS/Linux
+   - venv\Scripts\activate      # On Windows
 
 ## 2. Install dependencies
 
