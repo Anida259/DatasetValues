@@ -25,3 +25,12 @@
 -  Forecast plots are saved in the plots/ folder
 -  Trained models and accuracy metrics are saved in the pkl/ folder
 -  Model performance summary is exported as pkl/model_accuracy.csv
+
+## Interpretation of Results
+
+### 1. Revenue 
+
+<img width="959" height="473" alt="Screenshot 2025-09-04 at 18 19 23" src="https://github.com/user-attachments/assets/eb1041ba-6dc4-4e56-bc6a-329eafaa198d" />
+
+jj
+
