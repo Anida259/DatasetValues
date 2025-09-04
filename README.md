@@ -26,7 +26,14 @@
 -  Trained models and accuracy metrics are saved in the pkl/ folder
 -  Model performance summary is exported as pkl/model_accuracy.csv
 
+
 ## Interpretation of Results
+
+### Accuracy Measures
+
+CV_RMSE → Shows how far predictions are from actuals on unseen data; lower values mean more accurate and reliable forecasts.
+Train_RMSE → Measures how closely the model fits past data; lower values indicate a tighter fit, but a big gap vs. CV_RMSE signals overfitting.
+Train_R² → Explains how much of the variation in the target is captured by the model, with higher values meaning stronger predictive power.
 
 ### 1. Revenue 
 
